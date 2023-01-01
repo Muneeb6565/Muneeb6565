@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding, logics, technical analysis.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
-- 📫 How to reach  mzalatan07@gmail.com
+- 📫 Email : mzalatan07@gmail.com
